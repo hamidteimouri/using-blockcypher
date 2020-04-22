@@ -95,6 +95,13 @@
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/fgrosse/phpasn1" />
+      <path value="$PROJECT_DIR$/vendor/lastguest/murmurhash" />
+      <path value="$PROJECT_DIR$/vendor/bitwasp/bech32" />
+      <path value="$PROJECT_DIR$/vendor/bitwasp/bitcoin" />
+      <path value="$PROJECT_DIR$/vendor/bitwasp/buffertools" />
+      <path value="$PROJECT_DIR$/vendor/mdanter/ecc" />
+      <path value="$PROJECT_DIR$/vendor/pleonasm/merkle-tree" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
