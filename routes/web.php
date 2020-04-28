@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    $private = "L4XnkvPsa5HJ62HZjzRZYuZ6K9C1sP2G3adkYfUn6ziCxT5sXeiJ";
+    $private = "2121212121212";
     $fromAddress = "15ndrKTjcJNNEaK94hcurucYPmtKhcpu6z";   # local address
     $toAddress = "16WvUJ4wamAxQFwvRcWvyTQoTvANQXBr6Y";     # binance address
     $value = 0.000058;
