@@ -99,6 +99,15 @@ return [
         'emergency' => [
             'path' => storage_path('logs/laravel.log'),
         ],
+
+        'evacuatorBTC' => [
+            'driver' => 'daily',
+            'path' => storage_path('logs/Evacuator/BTC/Evacuator.log'),
+            'level' => 'debug',
+            'days' => 14,
+            'permission' => 0777,
+        ],
+
     ],
 
 ];
